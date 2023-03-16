@@ -1,0 +1,7 @@
+# Ignore markdown
+*.md
+
+node_modules
+dist
+
+.yalc
